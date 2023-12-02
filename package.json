@@ -1,0 +1,14 @@
+{
+  "name": "magic-regexp-demo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "magic-regexp": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.1"
+  }
+}
